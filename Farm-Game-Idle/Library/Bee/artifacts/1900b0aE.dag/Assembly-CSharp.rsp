@@ -376,9 +376,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/FarmManager.cs"
 "Assets/Scripts/IsometricZ.cs"
+"Assets/Scripts/PlantItem.cs"
 "Assets/Scripts/PlantObject.cs"
 "Assets/Scripts/PlotManager.cs"
+"Assets/Scripts/StoreManager.cs"
 -langversion:9.0
 
 /deterministic

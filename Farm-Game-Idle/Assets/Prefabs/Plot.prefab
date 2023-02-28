@@ -212,7 +212,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 313b4a6c63c5cf340b943b16433ba231, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedPlant: {fileID: 11400000, guid: 3f167c42e0241a040992b27567755110, type: 2}
+  availableColor: {r: 0, g: 1, b: 0, a: 1}
+  unavailableColor: {r: 1, g: 0, b: 0, a: 1}
+  drySprite: {fileID: -983064735, guid: b8238135e002aa34891dd6e1eccc1455, type: 3}
+  normalSprite: {fileID: -197605715, guid: 22972799d0ae94640a1448fe8c39764e, type: 3}
+  unavailableSprite: {fileID: 699826881, guid: b8238135e002aa34891dd6e1eccc1455, type: 3}
+  isBought: 1
 --- !u!114 &88719854696198210
 MonoBehaviour:
   m_ObjectHideFlags: 0
